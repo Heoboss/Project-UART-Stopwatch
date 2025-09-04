@@ -54,3 +54,9 @@
 아래 시뮬레이션 파형은 입력된 `rx` 데이터에 따라 Switch Control Unit(`state_reg`)의 상태가 변경되는 것을 보여주며, 이를 통해 명령어 처리가 성공적으로 이루어졌음을 확인할 수 있습니다.
 
 <img width="1014" height="756" alt="image" src="https://github.com/user-attachments/assets/a19115d7-c943-40a9-a5ca-601e3b422748" />
+
+아래 시뮬레이션 파형은 시계수정 모드에서 default 시간인 12:00을 11:25로 바꾸는 것을 보여주며, 성공적으로 수정됨을 확인할 수 있습니다.
+
+<img width="1032" height="766" alt="image" src="https://github.com/user-attachments/assets/3025e06a-7012-4a78-b11c-40b15ef77277" />
+
+### *(전체 pptx 자료에서 더 많은 시뮬레이션 자료를 볼 수 있습니다.)*
