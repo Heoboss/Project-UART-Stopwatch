@@ -60,3 +60,10 @@
 <img width="1032" height="766" alt="image" src="https://github.com/user-attachments/assets/3025e06a-7012-4a78-b11c-40b15ef77277" />
 
 ### *(전체 pptx 자료에서 더 많은 시뮬레이션 자료를 볼 수 있습니다.)*
+
+## 🎬 동작 영상 (Demonstration Video)
+
+아래 이미지를 클릭하면 프로젝트 동작 영상을 확인할 수 있습니다.
+
+[![UART 스톱워치 동작 영상](https://img.youtube.com/vi/_R_MPFVU31M/hqdefault.jpg)](https://youtu.be/_R_MPFVU31M)
+
